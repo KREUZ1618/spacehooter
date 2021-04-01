@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+	package
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:15-39
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:5-24:12
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:3:40-98
+application
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:6-22:15
+	android:label
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:51-83
+	android:appCategory
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:84-110
+	android:icon
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:133-169
+	android:allowBackup
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:170-196
+	android:theme
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:19-50
+	android:isGame
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:6:111-132
+activity#com.mygdx.game.AndroidLauncher
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:9:6-20:12
+	android:screenOrientation
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:9:144-181
+	android:label
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:9:16-48
+	android:configChanges
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:9:49-143
+	android:name
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:9:182-227
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:12:6-18:17
+action#android.intent.action.MAIN
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:14:5-56
+	android:name
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:16:15-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml:23:22-63
+uses-sdk
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		ADDED from C:\ultimateFloatingBird\android\AndroidManifest.xml
+		INJECTED from C:\ultimateFloatingBird\android\AndroidManifest.xml

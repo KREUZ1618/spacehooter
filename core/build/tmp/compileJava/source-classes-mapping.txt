@@ -1,0 +1,48 @@
+com/mygdx/game/explosion.java
+ com.mygdx.game.explosion
+com/mygdx/game/Preferences.java
+ com.mygdx.game.Preferences
+ com.mygdx.game.Preferences$1
+ com.mygdx.game.Preferences$2
+ com.mygdx.game.Preferences$3
+ com.mygdx.game.Preferences$4
+ com.mygdx.game.Preferences$5
+com/mygdx/game/galaxy.java
+ com.mygdx.game.galaxy
+com/mygdx/game/BaseGame.java
+ com.mygdx.game.BaseGame
+com/mygdx/game/ActorBeta.java
+ com.mygdx.game.ActorBeta
+com/mygdx/game/Shield.java
+ com.mygdx.game.Shield
+com/mygdx/game/Laser.java
+ com.mygdx.game.Laser
+com/mygdx/game/RockActor.java
+ com.mygdx.game.RockActor
+com/mygdx/game/AppPreferences.java
+ com.mygdx.game.AppPreferences
+com/mygdx/game/GameBeta.java
+ com.mygdx.game.GameBeta
+com/mygdx/game/LevelScreen.java
+ com.mygdx.game.LevelScreen
+com/mygdx/game/MenuScreen.java
+ com.mygdx.game.MenuScreen
+ com.mygdx.game.MenuScreen$1
+ com.mygdx.game.MenuScreen$2
+ com.mygdx.game.MenuScreen$3
+com/mygdx/game/Thrusters.java
+ com.mygdx.game.Thrusters
+com/mygdx/game/Rock.java
+ com.mygdx.game.Rock
+com/mygdx/game/BaseActor.java
+ com.mygdx.game.BaseActor
+com/mygdx/game/BaseScreen.java
+ com.mygdx.game.BaseScreen
+com/mygdx/game/Spaceship.java
+ com.mygdx.game.Spaceship
+com/mygdx/game/LevelScreen2.java
+ com.mygdx.game.LevelScreen2
+ com.mygdx.game.LevelScreen2$1
+ com.mygdx.game.LevelScreen2$2
+com/mygdx/game/SpaceshipGame.java
+ com.mygdx.game.SpaceshipGame

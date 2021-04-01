@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mygdx.game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->C:\ultimateFloatingBird\android\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\ultimateFloatingBird\android\AndroidManifest.xml
+10    -
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->C:\ultimateFloatingBird\android\AndroidManifest.xml:23:5-65
+11-->C:\ultimateFloatingBird\android\AndroidManifest.xml:23:22-63
+12
+13    <application
+13-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:6-22:15
+14        android:allowBackup="true"
+14-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:170-196
+15        android:appCategory="game"
+15-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:84-110
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:133-169
+18        android:isGame="true"
+18-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:111-132
+19        android:label="@string/app_name"
+19-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:51-83
+20        android:testOnly="true"
+21        android:theme="@style/GdxTheme" >
+21-->C:\ultimateFloatingBird\android\AndroidManifest.xml:6:19-50
+22    -
+23        <activity
+23-->C:\ultimateFloatingBird\android\AndroidManifest.xml:9:6-20:12
+24            android:name="com.mygdx.game.AndroidLauncher"
+24-->C:\ultimateFloatingBird\android\AndroidManifest.xml:9:182-227
+25            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+25-->C:\ultimateFloatingBird\android\AndroidManifest.xml:9:49-143
+26            android:label="@string/app_name"
+26-->C:\ultimateFloatingBird\android\AndroidManifest.xml:9:16-48
+27            android:screenOrientation="landscape" >
+27-->C:\ultimateFloatingBird\android\AndroidManifest.xml:9:144-181
+28    -
+29            <intent-filter>
+29-->C:\ultimateFloatingBird\android\AndroidManifest.xml:12:6-18:17
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\ultimateFloatingBird\android\AndroidManifest.xml:14:5-56
+30-->C:\ultimateFloatingBird\android\AndroidManifest.xml:14:13-54
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\ultimateFloatingBird\android\AndroidManifest.xml:16:5-64
+32-->C:\ultimateFloatingBird\android\AndroidManifest.xml:16:15-62
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>
